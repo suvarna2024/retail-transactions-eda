@@ -55,5 +55,3 @@ The dataset contains retail transaction records with features such as:
 - Compared preferred payment methods across customer segments
 
 ---
-
-## 📁 Project Structure
